@@ -3,7 +3,7 @@
 ## Oi 👋
 
 Sou **Gustavo Rio**, graduando em **Ciência da Computação** presencialmente na Universidade Estácio de Sá (CR: 8,87), apaixonado por desenvolvimento e infraestrutura de TI.  
-Atuo como **IT Support & Developer**, com experiência sólida em **implantaçoes e suporte a sistemas ERP**, nocoes solidas em **desenvolvimento backend com PHP ou framework Laravel, java Springboot/thymeleaf, Flask. Desenvolvimento de sistema basico Desktop utilizando TKinter**, nocoes em **automação com Python e Powershell** e conhecimento com **infraestrutura de redes, governancia e segurança da informação**.
+Atuo como **IT Support & Developer**, com experiência sólida em **implantaçoes e suporte a sistemas ERP**, nocoes solidas em **desenvolvimento  PHP ou framework Laravel, java Springboot/thymeleaf, Flask. Desenvolvimento de sistema basico Desktop utilizando TKinter**, nocoes em **automação com Python e Powershell** e conhecimento com **infraestrutura de redes, governancia e segurança da informação**.
 
 ---
 
