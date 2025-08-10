@@ -1,4 +1,4 @@
-<img width="800" height="242" alt="image" src="https://github.com/user-attachments/assets/77f339ff-fe22-435e-86f2-bfabd83cef1e" />
+<img width="800" height="242" alt="image" src="https://github.com/GustavoRio99/GustavoRio99/blob/main/background.gif?raw=true" />
 
 ## Oi 👋
 
