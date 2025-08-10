@@ -34,38 +34,29 @@ Atuo como **IT Support & Developer**, com experiência sólida em **implantaçoe
 - Inteligência Artificial  
 - Desenvolvimento Android  
 - Sistemas Distribuídos e Computação Paralela  
----
-
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/GustavoRio99?theme=dark&font=Cambay) | ![Codewars](https://github.r2v.ch/codewars?user=MGustavoRio99) |
-| ----------- | ----------- |
-
-|<img src="./sql.jpg" alt="teste" width="100" height="100" >| <img src="./problem-solving.jpg" alt="teste" width="100" height="100" > | 
-| ----------- | ----------- | 
+--- 
 
 ## GitHub Stats
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoRio99&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true) 
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoRio99&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoRio99&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
- | <img height="250px"  src="https://github-readme-stats.vercel.app/api?username=GustavoRio99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=04d361&icon_color=04d361&bg_color=121214&locale=pt-br&text_color=8257e5"/> | <img height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRio99&layout=compact&langs_count=8&theme=onedark&title_color=04d361&bg_color=121214&text_color=8257e5&locale=pt-br"/> | 
+| <img height="250px"  src="https://github-readme-stats.vercel.app/api?username=GustavoRio99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=04d361&icon_color=04d361&bg_color=121214&locale=pt-br&text_color=8257e5"/> | <img height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRio99&layout=compact&langs_count=8&theme=onedark&title_color=04d361&bg_color=121214&text_color=8257e5&locale=pt-br"/> | 
  | ----------- | ----------- |
 
-## Contatos
-<a href="https://linkedin.com/in/techgustavorio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maykon-dias" height="30" width="40" /></a>
-
-
----
 
 ---
 
 ### 📫 Como me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/techgustavorio)  
 - <a href="https://linkedin.com/in/techgustavorio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gustavo Rio" height="30" width="40" /></a>
+---
+
+![](https://komarev.com/ghpvc/?username=GustavoRio99&style=for-the-badge)
+
 
 ---
+
 
 ⚡ *"Tecnologia é a ponte entre ideias e soluções."*
