@@ -20,10 +20,10 @@ Atuo como **IT Support & Developer**, com experiência sólida em **implantaçoe
 ### 📚 Formação
 - 🎓 **Bacharelado em Ciência da Computação** – Universidade Estácio de Sá *(2022 - 2026)*
   - Disciplinas de destaque: Desenvolvimento Web, Segurança da Informação, Computação em Nuvem, Big Data, Engenharia de Software, Programação Orientada a Objetos em Java, Microcontroladores e Algoritmos.
-  - Projetos acadêmicos:  
-    - **Estação Meteorológica IoT com Arduino** 🌦️  
-    - **CRUD de Produtos em Python utilizando metodologia RAD** 🐍  
-    - **Sistema Web de Automação Residencial** 🏠  
+  - Projetos acadêmicos:
+    - **Estação Meteorológica IoT com Arduino** 🌦️
+    - **Sistema para gerenciamento de produtos em estoque(CRUD) com Python utilizando metodologia RAD** 🐍  
+    - **Sistema Web de Automação Residencial(CRUD) em PHP front HTML,CSS,Javascript** 🏠  
     - **Análise de Dados - CST Automação** 📊 - Projeto interno para processamento e análise de arquivos CSV com Python (Pandas, NumPy) e geração de dashboards interativos com Plotly, auxiliando na tomada de decisões estratégicas.
     - **Sistema MicroControlador autonomo de ambiente com arduino** 🌱
   
