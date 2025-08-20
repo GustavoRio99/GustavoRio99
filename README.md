@@ -33,7 +33,9 @@ Atuo como **IT Support & Developer**, com experiência sólida em **implantaçoe
 ### 🌱 Atualmente aprendendo
 - Inteligência Artificial  
 - Desenvolvimento Android  
-- Sistemas Distribuídos e Computação Paralela  
+- Sistemas Distribuídos e Computação Paralela
+
+- Desenvolvendo um Agente de IA (RAG)
 --- 
 
 ## GitHub Stats
