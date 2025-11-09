@@ -1,9 +1,11 @@
 <img width="800" height="242" alt="image" src="https://github.com/GustavoRio99/GustavoRio99/blob/main/background.gif?raw=true" />
 
-## Oi 👋
+## Sou Gustavo Rio 👋
 
-Sou **Gustavo Rio**, graduando em **Ciência da Computação** presencialmente na Universidade Estácio de Sá, apaixonado por desenvolvimento e infraestrutura de TI.  
-Atuo como **IT Support & Developer**, com experiência sólida em **implantaçoes e suporte a sistemas ERP**, nocoes solidas em **desenvolvimento  PHP ou framework Laravel, java Springboot/thymeleaf, Flask. Desenvolvimento de sistema basico Desktop utilizando TKinter**, nocoes em **automação com Python e Powershell** e conhecimento com **infraestrutura de redes, governancia e segurança da informação**.
+Graduando em Ciência da Computação (UNESA), com experiência sólida em implantação de sistemas ERP, suporte técnico, infraestrutura de TI, redes, BI e desenvolvimento full stack.
+Atuei com integração de sistemas, automação de processos e segurança da informação, sempre priorizando eficiência, estabilidade e resultado.
+Gosto de unir prática e inovação para entregar soluções que realmente funcionam.
+Busco oportunidades para crescer nas áreas de Infraestrutura, Desenvolvimento Web ou Segurança da Informação, aplicando o conhecimento adquirido na graduação e em projetos reais.
 
 ---
 
@@ -12,7 +14,7 @@ Atuo como **IT Support & Developer**, com experiência sólida em **implantaçoe
 - **Programação e Web:** HTML, CSS, JavaScript, PHP, Java (Spring), Python (Flask, Pandas, Plotly, Tkinter), C/C++
 - **Frameworks e Bibliotecas:** Bootstrap, Tkinter
 - **Banco de Dados:** SQL Server, MySql
-- **DevOps e Infraestrutura:** Cloud Computing, Redes, Linux, Kali Linux, VPNs
+- **DevOps e Infraestrutura:** Google Cloud, Redes, Linux, Kali Linux, VPNs
 - **Outros:** Pacote Office, Adobe Photoshop, Automação/Robótica, Manutenção de hardware
 
 ---
